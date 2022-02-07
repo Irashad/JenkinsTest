@@ -18,7 +18,7 @@ public class MiamiyeGedek {
     public void hardaQaldinDeGorum()
     {
         driver.get("https://www.google.com/");
-        System.out.println(driver.getTitle());
+        System.out.println(d;river.getTitle());
     }
 
 
